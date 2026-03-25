@@ -94,19 +94,3 @@ CivicChain combines NLP, Computer Vision, and Blockchain to modernize civic gove
 - Government system integration  
 
 ---
-
-## 🤝 Contributing  
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
----
-
-## 📜 License  
-
-This project is licensed under the MIT License.
-
----
-
-## ⭐ Support  
-
-If you like this project, give it a star ⭐ on GitHub!
